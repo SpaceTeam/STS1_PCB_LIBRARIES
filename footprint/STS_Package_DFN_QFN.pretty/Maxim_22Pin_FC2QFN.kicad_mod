@@ -924,7 +924,7 @@
           (xy -0.65 0.4875)
         ) (width 0) (fill yes))
     ) (tstamp 22ac4839-211e-4e33-a844-b24f2a188e8d))
-  (model "${KIPRJMOD}/../libs/3d/STS_Package_QFN_DFN/Maxim_22Pin_FC2QFN.step"
+  (model "${KIPRJMOD}/../libs/3d/STS_Package_DFN_QFN/Maxim_22Pin_FC2QFN.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

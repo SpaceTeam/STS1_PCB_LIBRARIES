@@ -4,6 +4,10 @@ $CMP MAX25239
 F https://www.maximintegrated.com/en/products/power/switching-regulators/MAX25240.html
 $ENDCMP
 #
+$CMP MP28167GQ
+F https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP28167GQ/document_id/4000/
+$ENDCMP
+#
 $CMP TPS61288
 F https://www.ti.com/lit/ds/symlink/tps61288.pdf?ts=1634630970571
 $ENDCMP

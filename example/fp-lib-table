@@ -4,4 +4,8 @@
   (lib (name "STS_Package_DFN_QFN")(type "KiCad")(uri "${KIPRJMOD}/../libs/footprint/STS_Package_DFN_QFN.pretty")(options "")(descr ""))
   (lib (name "STS_Package_LGA")(type "KiCad")(uri "${KIPRJMOD}/../libs/footprint/STS_Package_LGA.pretty")(options "")(descr ""))
   (lib (name "STS_RF")(type "KiCad")(uri "${KIPRJMOD}/../libs/footprint/STS_RF.pretty")(options "")(descr ""))
+  (lib (name "STS_Package_VSON")(type "KiCad")(uri "${KIPRJMOD}/../libs/footprint/STS_PACKAGE_VSON.pretty")(options "")(descr ""))
+  (lib (name "STS_Package_QSOP")(type "KiCad")(uri "${KIPRJMOD}/../libs/footprint/STS_Package_QSOP.pretty")(options "")(descr ""))
+  (lib (name "STS_Package_SO")(type "KiCad")(uri "${KIPRJMOD}/../libs/footprint/STS_Package_SO.pretty")(options "")(descr ""))
+  (lib (name "STS_Connector")(type "KiCad")(uri "${KIPRJMOD}/../libs/footprint/STS_Connector.pretty")(options "")(descr ""))
 )

@@ -58,4 +58,9 @@
           (xy -0.44 0.875)
         ) (width 0.01) (fill yes))
     ) (tstamp 16235fd5-ba9f-45e0-8a79-8da041ae16ce))
+  (model "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/VSON-8_3.3x3.3mm_P0.65mm_NexFET.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

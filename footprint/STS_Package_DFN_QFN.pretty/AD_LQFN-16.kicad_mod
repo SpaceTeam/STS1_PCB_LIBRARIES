@@ -109,7 +109,7 @@
   (fp_line (start 1 1.5) (end 1 -1.5) (layer "F.Fab") (width 0.127) (tstamp df5bffe6-cc76-47b8-a517-2fff4ac6d642))
   (fp_circle (center -1.869 -1.25) (end -1.769 -1.25) (layer "F.Fab") (width 0.2) (fill none) (tstamp 43516584-81f1-401c-bd84-c1cb6773bd48))
   (pad "1" smd roundrect (at -0.92 -1.25) (size 0.66 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.03) (tstamp 20bd5394-d820-4a3f-b521-4436a3c72b97))
-  (pad "2" smd custom (at -0.492 0.254) (size 0.65 0.65) (layers "F.Cu")
+  (pad "2" smd custom (at -0.492 0.254) (size 0.65 0.65) (layers "F.Cu" "F.Mask")
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
@@ -137,7 +137,7 @@
           (xy 0.367 -1.129)
         ) (width 0.01) (fill yes))
     ) (tstamp a47ebec8-063a-47f4-87f8-8e3f06a92a22))
-  (pad "8" smd custom (at 0.492 0.254) (size 0.65 0.65) (layers "F.Cu")
+  (pad "8" smd custom (at 0.492 0.254) (size 0.65 0.65) (layers "F.Cu" "F.Mask")
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts

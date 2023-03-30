@@ -2,4 +2,7 @@
   (lib (name "STS_Regulator_Switching")(type "KiCad")(uri "${KIPRJMOD}/../libs/symbol/STS_Regulator_Switching.kicad_sym")(options "")(descr ""))
   (lib (name "STS_RF_Module")(type "KiCad")(uri "${KIPRJMOD}/../libs/symbol/STS_RF_Module.kicad_sym")(options "")(descr ""))
   (lib (name "STS_Sensor_Optical")(type "KiCad")(uri "${KIPRJMOD}/../libs/symbol/STS_Sensor_Optical.kicad_sym")(options "")(descr ""))
+  (lib (name "STS_Battery_Management")(type "KiCad")(uri "${KIPRJMOD}/../libs/symbol/STS_Battery_Management.kicad_sym")(options "")(descr ""))
+  (lib (name "STS_Analog_ADC")(type "KiCad")(uri "${KIPRJMOD}/../libs/symbol/STS_Analog_ADC.kicad_sym")(options "")(descr ""))
+  (lib (name "STS_Transistor_FET")(type "KiCad")(uri "${KIPRJMOD}/../libs/symbol/STS_Transistor_FET.kicad_sym")(options "")(descr ""))
 )

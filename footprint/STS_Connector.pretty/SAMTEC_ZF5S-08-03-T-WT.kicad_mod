@@ -46,4 +46,9 @@
     (solder_mask_margin 0.102) (tstamp 8ecb46d1-7acd-48c4-915f-8e7b482a0a27))
   (pad "S2" smd rect (at 3.435 0) (size 2.18 2) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.102) (tstamp eeaf9d8e-c2e9-42dc-be13-297371739c4d))
+  (model ":STS_Connector:ZF5S-08-03-T-WT.stp"
+    (offset (xyz 0 -1 5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

@@ -210,7 +210,7 @@
         (name "DVDT" (effects (font (size 1.27 1.27))))
         (number "7" (effects (font (size 1.27 1.27))))
       )
-      (pin power_in line (at 12.7 3.81 180) (length 2.54)
+      (pin passive line (at 12.7 3.81 180) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "8" (effects (font (size 1.27 1.27))))
       )

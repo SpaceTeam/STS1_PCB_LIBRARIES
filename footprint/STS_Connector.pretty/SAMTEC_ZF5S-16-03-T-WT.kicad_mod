@@ -34,6 +34,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -46,6 +47,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -58,6 +60,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -224,63 +227,63 @@
 		(layer "F.Fab")
 		(uuid "8f5eec7c-a482-4484-8a50-12acd82e0e45")
 	)
-	(pad "01" smd rect
+	(pad "1" smd rect
 		(at -3.75 1.07)
 		(size 0.4 1.63)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.102)
 		(uuid "3aeba6b7-a707-4a1f-84f2-53291c6084c3")
 	)
-	(pad "02" smd rect
+	(pad "2" smd rect
 		(at -3.25 -1.07)
 		(size 0.4 1.63)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.102)
 		(uuid "4d6b8d7c-aa03-4c5c-b495-f592bcd8ad4c")
 	)
-	(pad "03" smd rect
+	(pad "3" smd rect
 		(at -2.75 1.07)
 		(size 0.4 1.63)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.102)
 		(uuid "e062830f-2b8d-4010-b401-31874d9987a2")
 	)
-	(pad "04" smd rect
+	(pad "4" smd rect
 		(at -2.25 -1.07)
 		(size 0.4 1.63)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.102)
 		(uuid "accde4c4-64c9-4f36-b3f4-2f8dcf8dda17")
 	)
-	(pad "05" smd rect
+	(pad "5" smd rect
 		(at -1.75 1.07)
 		(size 0.4 1.63)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.102)
 		(uuid "261f819a-e9dc-404b-b572-68832414ca80")
 	)
-	(pad "06" smd rect
+	(pad "6" smd rect
 		(at -1.25 -1.07)
 		(size 0.4 1.63)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.102)
 		(uuid "3695d23e-9bf8-4af5-85b8-ec894c1ad9d8")
 	)
-	(pad "07" smd rect
+	(pad "7" smd rect
 		(at -0.75 1.07)
 		(size 0.4 1.63)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.102)
 		(uuid "f7deba2a-d740-4935-929d-037276ea97c4")
 	)
-	(pad "08" smd rect
+	(pad "8" smd rect
 		(at -0.25 -1.07)
 		(size 0.4 1.63)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.102)
 		(uuid "d03e9701-a3fe-4e81-beeb-7f57ba593f8c")
 	)
-	(pad "09" smd rect
+	(pad "9" smd rect
 		(at 0.25 1.07)
 		(size 0.4 1.63)
 		(layers "F.Cu" "F.Paste" "F.Mask")
@@ -350,7 +353,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "7a303626-f2d9-4b02-ae50-8ce0c1b4411e")
 	)
-	(model "C:/DEV/STS1/STS1_EPS/libs/3d/STS_Connector/ZF5S-16-03-T-WT.step"
+	(model "${KIPRJMOD} /../libs/3d/STS_Connector/ZF5S-16-03-T-WT.step"
 		(offset
 			(xyz 0 -1 4.8)
 		)

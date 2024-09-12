@@ -10,7 +10,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.015)
 			)
 		)
 	)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "f3d35759-8ac2-4c2c-8c8c-b20c0d903be6")
+		(uuid "2dfe2eb9-4cea-4d1b-bb29-22f9c0e0bc6c")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -41,7 +41,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "e99490c9-4e25-416e-8558-836e429cec93")
+		(uuid "bab13dc2-69ef-4a4f-b728-2d2a5a66339a")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -53,7 +53,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0852f507-ede0-4bf1-a320-25cb6117624c")
+		(uuid "b1c72661-54db-4733-afe9-1e0dba5f1eed")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -61,7 +61,7 @@
 			)
 		)
 	)
-	(attr smd)
+	(attr through_hole)
 	(fp_line
 		(start -2.945 -2.53)
 		(end 2.945 -2.53)
@@ -238,7 +238,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "99a5deb4-af5a-41e7-8b43-9df94e5d3868")
 	)
-	(model ":STS_Package_SO:POWERPAK_SO8_single.STEP"
+	(model "${KIPRJMOD}/../libs/3d/STS_Package_SO/POWERPAK_SO8_single.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

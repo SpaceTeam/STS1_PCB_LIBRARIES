@@ -266,7 +266,7 @@
 			)
 		)
 	)
-	(model "D:/DEV/STS1/STS1_EPS/libs/3d/STS_Connector/STS1_EPS_DT_FIX_2.step"
+	(model "${KIPRJMOD}/../libs/3d/STS_Connector/STS1_EPS_DT_FIX_2.step"
 		(offset
 			(xyz -101 62.5 0)
 		)

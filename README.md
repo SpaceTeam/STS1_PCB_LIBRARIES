@@ -5,6 +5,15 @@ See the example `fp-lib-table` and `sym-lib-table` in the `example` directory of
   
 All libs in here should adhere to the [KiCAD Library Conventions](https://klc.kicad.org/) as closely as possible to make it possible to upstream the parts in the future.
 
+
+# Instructions: how to init this library after cloning a project that uses it
+
+cd into project folder and do:
+- `git submodule init`
+- `git submodule update`
+
+now the newly cloned KiCad project should have access to this library
+
 # Instructions for setting up a new project with these libs
 
 - Create a new directory and initialize it as a git repo (`mkdir test && cd test && git init`)
